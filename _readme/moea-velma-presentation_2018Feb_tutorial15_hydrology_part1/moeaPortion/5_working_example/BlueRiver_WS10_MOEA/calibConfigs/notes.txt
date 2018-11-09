@@ -1,0 +1,1 @@
+=TEXT((B1 -DATEVALUE("1/1/"&TEXT(B1,"yy"))+1),"0")
